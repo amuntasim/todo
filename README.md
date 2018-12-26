@@ -20,8 +20,8 @@ Check out how it's structured, and try to understand how it works. You'll be
 
 ### Step 1: Setup
 `bundle install`
-`rails db:create`
-`rails db:seed`
+`rails db:setup`
+
 `rails s`  to run and visit `localhost:3000`
 
 ### Step 2: Fix the bugs
